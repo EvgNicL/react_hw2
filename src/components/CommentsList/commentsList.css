@@ -1,0 +1,13 @@
+.btn {
+    padding: 0 8px;
+    font-size: 20px;
+}
+.ul {
+    width: 40%;
+}
+.li {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    margin: 8px 0;
+}
